@@ -1,5 +1,5 @@
 # THE INSIDE-OUT PROJECTION MODEL (IOPM)
-### Master Core Specification Ledger & Unification Blueprint • v12.5 (Part 1 of 3)
+### Master Core Specification Ledger & Unification Blueprint • v12.5
 
 ---
 
