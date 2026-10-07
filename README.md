@@ -12,7 +12,7 @@ IOM describes reality as an inside-out projection arising from an internal sourc
 
 The local information-processing pathway is:
 
-$
+$$
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
@@ -26,7 +26,7 @@ L_2
 \Psi/\mathcal A
 \rightarrow
 \text{Observable Projection}.
-$
+$$
 
 This pathway is a local traversal through the larger toroidal architecture rather than a complete spatial map by itself.
 
