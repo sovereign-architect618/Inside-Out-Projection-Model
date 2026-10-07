@@ -15,7 +15,7 @@ The author's preferred overlapping geometry is a stellated octahedron combined w
 
 The composite geometry, recursive toroidal web, and local information-processing pathway describe different scales of the same architecture. The global spatial map establishes where and how relationships can exist. The local pathway describes how information traverses a particular dimensional and eigenstate-specific route. That pathway is:
 
-$
+$$
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
@@ -29,7 +29,7 @@ L_2
 \Psi/\mathcal A
 \rightarrow
 \text{Observable Projection}.
-$
+$$
 
 The dimensional boundary is the collective informational interface of the relevant system or dimension. It contains or represents the shared configuration of its eigenstates and the conditions under which localized states can be rendered and related. Boundary content can change as individual states interact, integrate, fail to integrate, and return information. A change in collective content, however, is not automatically a change in the boundary's governing rules. Individual transformation contributes to the whole, but a rule-level transition requires an aggregate-of-the-whole condition at the relevant scale.
 
@@ -45,7 +45,7 @@ The phrase **inverse rotation** therefore names one invariant generative relatio
 
 This produces the toroidal breath cycle:
 
-$
+$$
 \boxed{
 \text{Expansion}
 \rightarrow
@@ -57,7 +57,7 @@ $
 \rightarrow
 \text{Renewed expansion}.
 }
-$
+$$
 
 Because return is transformative, renewed projection does not begin from the original state. The larger system now contains the consequences of what occurred locally. Integrated information changes usable organization. Non-integrated information also changes the future because its location, persistence, and form constrain what remains unresolved. The architecture is consequently recursive without being a closed repetition: it preserves continuity while producing conditions that did not previously exist.
 
@@ -93,7 +93,7 @@ The universe, in this account, does not persist by eliminating change and does n
 
 ## Compact architecture
 
-$
+$$
 \boxed{
 \mathcal G_\star
 \longrightarrow
@@ -110,17 +110,17 @@ B
 \xrightarrow{\;\mathfrak I\;}
 \mathcal W'
 }
-$
+$$
 
 subject to
 
-$
+$$
 \boxed{
 \text{enough structure to persist}
 \quad\land\quad
 \text{enough variation to become}.
 }
-$
+$$
 
 Here $\mathcal G_\star$ is the composite generative geometry, $\mathcal W$ is the recursively nested toroidal web, the bracketed sequence is a local processing traversal, $O$ is observable projection, and $\mathfrak I$ is the multilevel inverse-return operation. The prime on $\mathcal W'$ indicates that reintegration has changed the relational conditions of the whole.
 
