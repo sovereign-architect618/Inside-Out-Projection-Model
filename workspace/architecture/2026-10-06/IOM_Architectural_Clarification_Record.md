@@ -72,6 +72,9 @@ Their omission does not mean the author abandoned the toroidal web, composite ge
 ### Author-originated
 
 - the global toroidal and nested-dimensional vision;
+- the source as the encompassing toroidal web and overall geometric structure, the aggregate information embodying all dimensions and forms the universe takes;
+- projection unfolding outward from the quantum/Planck-scale domain of the higher-dimensional web, with the quantum field belonging to that structure;
+- beings as nodes and representations through which the universe experiences itself;
 - inverse rotation as present across the listed domains;
 - the overlapping stellated-octahedron and offset/tilted tesseract;
 - the toroidal breath and inside-out projective relation;
@@ -142,3 +145,12 @@ The existing summaries and formalization should remain unchanged. The new branch
 6. **Entropy terminology:** entropy remains the core term. “Entropy-like variation” may be used only as a technical qualifier when distinguishing an untyped cross-domain role from a domain-specific entropy measure; it must not replace or weaken the author's assertion.
 7. **Persistence and becoming:** the principle is universal, while smaller sub-branches may instantiate and test it through different variables and mechanisms.
 8. **Publication:** the author is ready for a public version that is substantially more consistent with the complete spatial and structural vision. Exact geometric drawings may follow as a later reviewed addition rather than delaying the textual architecture.
+
+
+## 11. Clarification C — aggregate source and quantum field
+
+The author clarified that the source is the toroidal web and its encompassing geometric structure: the aggregate of information embodying all dimensions and the forms the universe takes. The quantum field is part of the higher-dimensional structure. Inside-out projection unfolds outward from the quantum/Planck-scale domain of that structure.
+
+The apparent size assigned to quantum and Planck phenomena through linear measurement may reflect a linear-perception bias. “Quantum/Planck scale” therefore does not place the source at a tiny point. The source is the encompassing web. An inward path from a local node traces relational structure toward that aggregate; it does not locate the source inside each individual. Beings are nodes and representations through which the universe experiences itself.
+
+This is a restored author-originated foundational relation omitted from the recent integrated architecture wording. Its inclusion records continuity in the model's development; it is not a newly introduced mechanism or a response to a failed proposal. The integrated branch uses the toroidal web and aggregate geometry as the source description. The historical `main` snapshot remains preserved as previously released.
