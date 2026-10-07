@@ -8,11 +8,11 @@ Nothing on this branch silently replaces the development record. Earlier formula
 
 ## The larger architecture
 
-IOM describes reality as an inside-out projection arising from an internal source condition, represented as \(r=0\), within an infinitely recursive and dimensionally nested toroidal web. Its spatial structure includes an overlapping stellated-octahedron and tilt/offset tesseract geometry. The exact drawn construction of that overlap remains open for visual confirmation; the asserted forms and their structural role are retained.
+IOM describes reality as an inside-out projection arising from an internal source condition, represented as $r=0$, within an infinitely recursive and dimensionally nested toroidal web. Its spatial structure includes an overlapping stellated-octahedron and tilt/offset tesseract geometry. The exact drawn construction of that overlap remains open for visual confirmation; the asserted forms and their structural role are retained.
 
 The local information-processing pathway is:
 
-\[
+$
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
@@ -26,7 +26,7 @@ L_2
 \Psi/\mathcal A
 \rightarrow
 \text{Observable Projection}.
-\]
+$
 
 This pathway is a local traversal through the larger toroidal architecture rather than a complete spatial map by itself.
 
