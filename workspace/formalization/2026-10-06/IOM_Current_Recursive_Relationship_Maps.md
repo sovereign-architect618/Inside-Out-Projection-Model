@@ -162,7 +162,7 @@ flowchart TD
     M --> U
 ```
 
-This is the current representative meaning of inverse operation: solve backward for a conditionally viable corrective operation. It is not the reciprocal \(1/D\) of a discrepancy score and does not prescribe one ideal state for every system.
+This is the current representative meaning of inverse operation: solve backward for a conditionally viable corrective operation. It is not the reciprocal $1/D$ of a discrepancy score and does not prescribe one ideal state for every system.
 
 ---
 
