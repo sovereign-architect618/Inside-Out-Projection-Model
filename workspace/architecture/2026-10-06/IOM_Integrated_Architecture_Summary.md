@@ -7,7 +7,7 @@
 
 ## Integrated summary
 
-The Inside-Out Model, historically called the Inside-Out Projection Model or IOPM, describes reality as an inside-out, recursively generated informational structure. Its originating condition is represented as \(r=0\): not merely a point located inside an already existing universe, but the internal source condition from which extension, differentiation, distance, time, matter, and observable form emerge through projection. Information and consciousness are treated as fundamental to the architecture, while ordinary physical reality is understood as the stabilized local rendering of deeper relational processes.
+The Inside-Out Model, historically called the Inside-Out Projection Model or IOPM, describes reality as an inside-out, recursively generated informational structure. Its originating condition is represented as $r=0$: not merely a point located inside an already existing universe, but the internal source condition from which extension, differentiation, distance, time, matter, and observable form emerge through projection. Information and consciousness are treated as fundamental to the architecture, while ordinary physical reality is understood as the stabilized local rendering of deeper relational processes.
 
 The universe in IOM is not fundamentally a collection of separate objects occupying an external container. It is an infinitely recursive, dimensionally nested toroidal web. Toroidal domains are embedded within, projected from, and relationally linked to other toroidal domains across dimensional depth and scale. Their orientations are not independent. They participate in inverse and complementary rotational relationships that recur as handedness, nested counter-rotation, paired winding, outward and inward information flow, and inversion under dimensional observation.
 
@@ -15,7 +15,7 @@ The author's preferred overlapping geometry is a stellated octahedron combined w
 
 The composite geometry, recursive toroidal web, and local information-processing pathway describe different scales of the same architecture. The global spatial map establishes where and how relationships can exist. The local pathway describes how information traverses a particular dimensional and eigenstate-specific route. That pathway is:
 
-\[
+$
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
@@ -29,13 +29,13 @@ L_2
 \Psi/\mathcal A
 \rightarrow
 \text{Observable Projection}.
-\]
+$
 
 The dimensional boundary is the collective informational interface of the relevant system or dimension. It contains or represents the shared configuration of its eigenstates and the conditions under which localized states can be rendered and related. Boundary content can change as individual states interact, integrate, fail to integrate, and return information. A change in collective content, however, is not automatically a change in the boundary's governing rules. Individual transformation contributes to the whole, but a rule-level transition requires an aggregate-of-the-whole condition at the relevant scale.
 
-Lens 1, \(L_1\), is the boundary-side transformation. It conditions collective information for entry into the periodic relational carrier. The Clifford torus, \(T_C\), lies between the two lenses and holds paired periodic and winding relationships in a form that can preserve global connection while supporting localized expression. Within the integrated architecture, this Clifford torus is a local carrier, cross-section, or realization of the larger toroidal web; it should not automatically be equated with the entire cosmic structure. Lens 2, \(L_2\), transforms toroidal relational information into a form applicable to a particular eigenstate.
+Lens 1, $L_1$, is the boundary-side transformation. It conditions collective information for entry into the periodic relational carrier. The Clifford torus, $T_C$, lies between the two lenses and holds paired periodic and winding relationships in a form that can preserve global connection while supporting localized expression. Within the integrated architecture, this Clifford torus is a local carrier, cross-section, or realization of the larger toroidal web; it should not automatically be equated with the entire cosmic structure. Lens 2, $L_2$, transforms toroidal relational information into a form applicable to a particular eigenstate.
 
-The localized eigenstate and its aperture or antenna form a unified structure, \(\Psi/\mathcal A\). The aperture belongs to the eigenstate level; it is neither the dimensional boundary nor another name for either lens. In biological applications, DNA is proposed as an aperture or antenna through which the projected informational structure is received, constrained, expressed, and returned. Whether DNA is the primary physical implementation, one nested component, or a correlate of a more general aperture class remains an empirical and engineering question.
+The localized eigenstate and its aperture or antenna form a unified structure, $\Psi/\mathcal A$. The aperture belongs to the eigenstate level; it is neither the dimensional boundary nor another name for either lens. In biological applications, DNA is proposed as an aperture or antenna through which the projected informational structure is received, constrained, expressed, and returned. Whether DNA is the primary physical implementation, one nested component, or a correlate of a more general aperture class remains an empirical and engineering question.
 
 Observable reality is the local stabilized rendering produced through this traversal. It is real as an organized projection, but its apparent external arrangement does not disclose the complete structure that generates it. Distance may be a rendering of projective angle. Linear time may be the localized readout of deeper periodicity. Apparent separation can arise from projection, scale, orientation, and dimensional position rather than constituting the most fundamental relation.
 
@@ -45,7 +45,7 @@ The phrase **inverse rotation** therefore names one invariant generative relatio
 
 This produces the toroidal breath cycle:
 
-\[
+$
 \boxed{
 \text{Expansion}
 \rightarrow
@@ -57,7 +57,7 @@ This produces the toroidal breath cycle:
 \rightarrow
 \text{Renewed expansion}.
 }
-\]
+$
 
 Because return is transformative, renewed projection does not begin from the original state. The larger system now contains the consequences of what occurred locally. Integrated information changes usable organization. Non-integrated information also changes the future because its location, persistence, and form constrain what remains unresolved. The architecture is consequently recursive without being a closed repetition: it preserves continuity while producing conditions that did not previously exist.
 
@@ -93,7 +93,7 @@ The universe, in this account, does not persist by eliminating change and does n
 
 ## Compact architecture
 
-\[
+$
 \boxed{
 \mathcal G_\star
 \longrightarrow
@@ -110,19 +110,19 @@ B
 \xrightarrow{\;\mathfrak I\;}
 \mathcal W'
 }
-\]
+$
 
 subject to
 
-\[
+$
 \boxed{
 \text{enough structure to persist}
 \quad\land\quad
 \text{enough variation to become}.
 }
-\]
+$
 
-Here \(\mathcal G_\star\) is the composite generative geometry, \(\mathcal W\) is the recursively nested toroidal web, the bracketed sequence is a local processing traversal, \(O\) is observable projection, and \(\mathfrak I\) is the multilevel inverse-return operation. The prime on \(\mathcal W'\) indicates that reintegration has changed the relational conditions of the whole.
+Here $\mathcal G_\star$ is the composite generative geometry, $\mathcal W$ is the recursively nested toroidal web, the bracketed sequence is a local processing traversal, $O$ is observable projection, and $\mathfrak I$ is the multilevel inverse-return operation. The prime on $\mathcal W'$ indicates that reintegration has changed the relational conditions of the whole.
 
 ## Provenance boundary
 
