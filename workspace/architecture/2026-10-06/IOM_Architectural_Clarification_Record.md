@@ -100,13 +100,13 @@ This clarification should be treated as a recovered unification, not as evidence
 
 The relationship is:
 
-\[
+$$
 \boxed{
 \text{earlier recovered processing architecture}
 \subset
 \text{integrated spatial-recursive architecture}
 }
-\]
+$$
 
 The subset symbol denotes scope: the processing pathway is retained inside the larger model.
 
