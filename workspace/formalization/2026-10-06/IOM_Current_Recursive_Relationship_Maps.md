@@ -11,7 +11,7 @@
 
 ```mermaid
 flowchart TD
-    H["Aggregate toroidal source / higher-dimensional structure, including quantum field"]
+    H["Higher-dimensional geometry / source-side structure"]
     B["Dimensional boundary: collective content + rules"]
     L1["L₁: boundary-side transformation"]
     TC["T_C: Clifford-torus relational carrier"]
@@ -27,8 +27,6 @@ flowchart TD
 ```
 
 Solid arrows show the forward projective order. Dotted arrows show return information; they do not assert literal inverse operators.
-
-Projection unfolds outward from the quantum/Planck-scale domain of the encompassing toroidal web. The quantum field belongs to the higher-dimensional structure. Linear measurement may bias the apparent size assigned to quantum/Planck phenomena; the source itself is the aggregate web, not a point coordinate.
 
 ---
 
