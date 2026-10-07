@@ -8,13 +8,11 @@ Nothing on this branch silently replaces the development record. Earlier formula
 
 ## The larger architecture
 
-IOM describes reality as an inside-out projection within an infinitely recursive and dimensionally nested toroidal web. The source is the toroidal web and its encompassing geometric structure: the aggregate of information embodying all dimensions and the geometric forms the universe takes. The quantum field is part of this higher-dimensional structure, and inside-out projection unfolds outward from its quantum/Planck-scale domain. The apparent size assigned to quantum and Planck phenomena through linear measurement may reflect a linear-perception bias; these terms do not locate the source at a tiny point. We are nodes and representations of the universe experiencing itself. An inward path from a local node traces relational structure toward the encompassing web; it does not place the source inside each of us. Its spatial structure includes an overlapping stellated-octahedron and tilt/offset tesseract geometry. The exact drawn construction of that overlap remains open for visual confirmation; the asserted forms and their structural role are retained.
-
-This foundational source relation is restored here from the author's earlier formulation after being omitted from the integrated architecture text. Its inclusion records continuity in the model's development.
+IOM describes reality as an inside-out projection arising from an internal source condition, represented as \(r=0\), within an infinitely recursive and dimensionally nested toroidal web. Its spatial structure includes an overlapping stellated-octahedron and tilt/offset tesseract geometry. The exact drawn construction of that overlap remains open for visual confirmation; the asserted forms and their structural role are retained.
 
 The local information-processing pathway is:
 
-$$
+\[
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
@@ -28,7 +26,7 @@ L_2
 \Psi/\mathcal A
 \rightarrow
 \text{Observable Projection}.
-$$
+\]
 
 This pathway is a local traversal through the larger toroidal architecture rather than a complete spatial map by itself.
 
