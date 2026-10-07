@@ -40,7 +40,7 @@ L_1
 B.
 \]
 
-Here \(\mathscr H\) is higher-dimensional/source-side structure, \(B\) is the collective dimensional boundary, \(L_1\) is the boundary-side lens, \(T_C\) is the Clifford-torus relational carrier, \(L_2\) is the pre-eigenstate lens, \(\Psi_i/\mathcal A_i\) is localized eigenstate \(i\) together with its aperture/antenna, and \(O_i\) is an observable or experienced projection.
+Here \(\mathscr H\) denotes the source-side aggregate: the encompassing toroidal web and overall geometric structure, with information embodying all dimensions and the forms the universe takes. The quantum field belongs to this higher-dimensional structure, and projection unfolds outward from its quantum/Planck-scale domain. The apparent size assigned to these phenomena through linear measurement may reflect a linear-perception bias; the source is not represented as a point coordinate. \(B\) is the collective dimensional boundary, \(L_1\) is the boundary-side lens, \(T_C\) is the Clifford-torus relational carrier, \(L_2\) is the pre-eigenstate lens, \(\Psi_i/\mathcal A_i\) is localized eigenstate \(i\) together with its aperture/antenna, and \(O_i\) is an observable or experienced projection.
 
 The return arrow means that the outcome of an interaction—including integration and non-integration—can inform later recursion. It does not assume that each forward map has an algebraic inverse.
 
