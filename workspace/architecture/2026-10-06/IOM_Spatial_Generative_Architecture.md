@@ -11,7 +11,7 @@ The Inside-Out Model describes the universe as an infinitely recursive, dimensio
 
 The existing information pathway
 
-$
+$$
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
@@ -25,7 +25,7 @@ L_2
 \Psi/\mathcal A
 \rightarrow
 \text{Observable Projection}
-$
+$$
 
 is therefore a local traversal through a larger spatial system. It is not, by itself, a complete map of the universe's structure.
 
@@ -71,7 +71,7 @@ The currently preferred underlying form is not simply E8. It is the author's ove
 
 A provisional symbolic placeholder is
 
-$
+$$
 \boxed{
 \mathcal G_\star
 =
@@ -79,7 +79,7 @@ $
 \bowtie_{\mathcal N}
 \mathcal Q_4
 }
-$
+$$
 
 where:
 
@@ -96,7 +96,7 @@ The Clifford torus $T_C$ in the processing pathway should be understood as a loc
 
 A provisional representation of the web is
 
-$
+$$
 \boxed{
 \mathcal W
 =
@@ -108,7 +108,7 @@ T_i^{(k)},
 \mathcal R_k
 \right\}_{k,\ell}
 }
-$
+$$
 
 where:
 
@@ -124,7 +124,7 @@ The nesting is treated as bi-infinite in principle. Infinity cannot terminate in
 
 The multilevel inverse operation can be represented provisionally as
 
-$
+$$
 \boxed{
 \mathfrak I_k
 =
@@ -137,7 +137,7 @@ $
 \mathsf O_k
 \right)
 }
-$
+$$
 
 with:
 
@@ -152,14 +152,14 @@ with:
 
 The tuple is an analytic decomposition of one operation. It should not be interpreted as evidence that the author originally proposed six independent operators. A particular recursion need not invert every component. The operator may preserve handedness while inverting winding, dimensional orientation, flow direction, or another component. Formally, a component map may be the identity in one recursion and nontrivial in another:
 
-$
+$$
 \mathfrak I_k^{(n)}
 =
 \prod_{a\in A}
 \mathsf I_{a,k}^{(n)},
 \qquad
 \mathsf I_{a,k}^{(n)}\in\{\mathrm{Id},\text{nontrivial inverse/complement}\}.
-$
+$$
 
 This preserves the unity of the inverse relationship without forcing every manifestation to occur identically in every cycle.
 
@@ -177,7 +177,7 @@ These are functional perspectives on the same structure, not three mutually excl
 
 The inverse-return phase does not undo the forward projection or simply play it backward. It transforms and reintegrates the results of localized processing. The returned state can alter the relational whole and thereby change the conditions of the next projection.
 
-$
+$$
 \boxed{
 X_k^{(n)}
 \xrightarrow{\;\mathcal P_k\;}
@@ -185,13 +185,13 @@ Y_k^{(n)}
 \xrightarrow{\;\mathfrak I_k\;}
 X_{k\pm1}^{(n+1)}
 }
-$
+$$
 
 Here $\mathcal P_k$ is outward projection, $Y_k^{(n)}$ is a localized and processed state, and $\mathfrak I_k$ performs inverse reintegration. The result is not assumed to be the prior state. It may occur at the same, an enclosing, or a nested dimensional level.
 
 This yields the toroidal breath relation:
 
-$
+$$
 \boxed{
 \text{Expansion}
 \rightarrow
@@ -203,7 +203,7 @@ $
 \rightarrow
 \text{Renewed expansion}
 }
-$
+$$
 
 ## 8. Traversability
 
