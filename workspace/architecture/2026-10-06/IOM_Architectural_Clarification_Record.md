@@ -84,7 +84,7 @@ Their omission does not mean the author abandoned the toroidal web, composite ge
 
 - the labels “spatial-generative architecture,” “multilevel inverse relation,” and “Persistence-and-Becoming Principle”;
 - the decomposition of the inverse relationship into a six-component tuple;
-- the symbols \(\mathcal G_\star\), \(\mathcal W\), \(\mathfrak I\), and \(\Omega\);
+- the symbols $\mathcal G_\star$, $\mathcal W$, $\mathfrak I$, and $\Omega$;
 - the viability functionals and conditional optimization equations;
 - the integrated diagrams and document hierarchy; and
 - the interpretation that the prior processing map was a local traversal within the global spatial ontology.
@@ -97,13 +97,13 @@ This clarification should be treated as a recovered unification, not as evidence
 
 The relationship is:
 
-\[
+$
 \boxed{
 \text{earlier recovered processing architecture}
 \subset
 \text{integrated spatial-recursive architecture}
 }
-\]
+$
 
 The subset symbol denotes scope: the processing pathway is retained inside the larger model.
 
@@ -127,7 +127,7 @@ The existing summaries and formalization should remain unchanged. The new branch
 2. Is the tesseract's offset distinct from its tilt, and can either be stated quantitatively?
 3. Does inverse rotation always transform handedness, or can some recursions preserve handedness while inverting another component?
 4. Are inward and outward nesting both infinite, or is infinity asserted only in one direction?
-5. Is \(T_C\) best described as a local carrier, a cross-section, a repeating cell, or all three under different conditions?
+5. Is $T_C$ best described as a local carrier, a cross-section, a repeating cell, or all three under different conditions?
 6. Should “entropy” remain the public term, or should some passages use “entropy-like variation” until physical mappings are typed?
 7. Does the persistence-and-becoming law apply identically to boundary rules and boundary content, or through different scale-specific implementations?
 8. Which portions of the architecture are ready for public expression, and which should remain private until diagrams or equations are more exact?
@@ -138,7 +138,7 @@ The existing summaries and formalization should remain unchanged. The new branch
 2. **Tilt/offset:** the two words originally described the same perceived relation. Formal geometry may later distinguish rotational tilt from translational offset if both are required by the confirmed construction.
 3. **Selective inversion:** some recursions may preserve handedness while inverting another component. The mechanism should therefore allow identity action on some components and inverse/complementary action on others.
 4. **Infinity:** recursive dimensional nesting is bi-infinite in principle. A one-direction-only infinity would contradict the intended logic.
-5. **Clifford-torus roles:** \(T_C\) may be carrier, cross-section, and repeating cell, with the applicable description determined by the level of analysis.
+5. **Clifford-torus roles:** $T_C$ may be carrier, cross-section, and repeating cell, with the applicable description determined by the level of analysis.
 6. **Entropy terminology:** entropy remains the core term. “Entropy-like variation” may be used only as a technical qualifier when distinguishing an untyped cross-domain role from a domain-specific entropy measure; it must not replace or weaken the author's assertion.
 7. **Persistence and becoming:** the principle is universal, while smaller sub-branches may instantiate and test it through different variables and mechanisms.
 8. **Publication:** the author is ready for a public version that is substantially more consistent with the complete spatial and structural vision. Exact geometric drawings may follow as a later reviewed addition rather than delaying the textual architecture.
