@@ -9,6 +9,10 @@
 
 The Inside-Out Model describes the universe as an infinitely recursive, dimensionally nested toroidal web. Its toroidal domains are related across scale and dimensional depth through inverse and complementary rotations. The author's spatial understanding includes an overlapping stellated-octahedron and tilt/offset tesseract geometry underlying or interwoven with the toroidal organization. The shapes themselves are part of the asserted architecture; their exact overlap and spatial relation remain pending a drawn construction that the author can compare directly with the internally understood form. This composite geometry establishes the orientations, intersections, pathways, and transformational possibilities through which information is projected, localized, processed, returned, and recursively reorganized.
 
+The source is the toroidal web and its encompassing geometric structure: the aggregate of information embodying all dimensions and the geometric forms the universe takes. The quantum field is part of this higher-dimensional structure, and inside-out projection unfolds outward from its quantum/Planck-scale domain. The apparent size assigned to quantum and Planck phenomena through linear measurement may reflect a linear-perception bias; these terms do not locate the source at a tiny point. We are nodes and representations of the universe experiencing itself. An inward path from a local node traces relational structure toward the encompassing web; it does not place the source inside each of us.
+
+The recovered record identifies this as an author-originated foundational relation omitted from the recent integrated architecture wording. Its restoration preserves development continuity. The source is the encompassing web and aggregate geometry; the quantum/Planck-scale domain is part of its higher-dimensional structure, rather than a point-source coordinate.
+
 The existing information pathway
 
 \[
