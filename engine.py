@@ -64,7 +64,7 @@ def run_stress_test():
         )
 
     print(
-        "\\n--- IOPM ENGINE SIMULATION COMPLETE: "
+        "--- IOPM ENGINE SIMULATION COMPLETE: "
         "TARGET AGREEMENT MUST BE CHECKED PER OUTPUT ---"
     )
 
