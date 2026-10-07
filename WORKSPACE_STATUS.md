@@ -55,7 +55,7 @@ The full forensic recovery map is not included on the public branches. It remain
 
 The working information pathway is:
 
-\[
+$
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
@@ -69,7 +69,7 @@ L_2
 \Psi/\mathcal A
 \rightarrow
 \text{Observable Projection},
-\]
+$
 
 with integration and non-integration both capable of returning information through the recursive structure. The boundary, first lens, Clifford-torus carrier, second lens, and eigenstate/aperture are retained as distinct mechanisms.
 
