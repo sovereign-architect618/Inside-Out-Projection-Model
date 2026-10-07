@@ -30,11 +30,11 @@ Coherence and entropy are therefore not simple enemies. Each becomes destructive
 
 The relation should not be represented by a universal equality such as $C=E$, nor by a fixed ideal ratio. It is better represented as a moving viability region:
 
-$
+$$
 \boxed{
 (C_t,E_t)\in\Omega_t
 }
-$
+$$
 
 where:
 
@@ -44,9 +44,9 @@ where:
 
 In general,
 
-$
+$$
 \Omega_t\neq\Omega_{t+1}.
-$
+$$
 
 The viable relation may change with scale, dimensional level, accumulated history, surrounding relationships, current geometry, unresolved information, and the transformation presently required.
 
@@ -54,21 +54,21 @@ The viable relation may change with scale, dimensional level, accumulated histor
 
 Let
 
-$
+$$
 P(C,E;\chi)
-$
+$$
 
 measure the system's capacity to persist, and let
 
-$
+$$
 B(C,E;\chi)
-$
+$$
 
 measure its capacity to become, where $\chi$ contains relevant context, geometry, history, and scale.
 
 Then the viable region may be defined provisionally as
 
-$
+$$
 \boxed{
 \Omega(\chi)
 =
@@ -79,7 +79,7 @@ P(C,E;\chi)\ge P_{\min},
 B(C,E;\chi)\ge B_{\min}
 \right\}.
 }
-$
+$$
 
 A state is viable only if it can remain organized and remain capable of transformation. These equations are AI formalizations of the author's conceptual relationship.
 
@@ -100,7 +100,7 @@ This means that balance in IOM is:
 
 The inverse operation does not drive every system toward maximum coherence or toward one ideal state. It responds to the direction in which recursive viability is being lost.
 
-$
+$$
 \boxed{
 u_t^*
 =
@@ -111,7 +111,7 @@ d\!\left(F(X_t,u),\Omega_{t+1}\right)
 \lambda\,\operatorname{cost}(u)
 \right]
 }
-$
+$$
 
 The selected operation $u_t^*$ moves the predicted next state toward the relevant viability region while respecting the cost or constraint of the transformation.
 
@@ -129,7 +129,7 @@ This creates several distinct corrective regimes:
 
 The multilevel inverse relation explains how transformation moves through geometry, winding, dimensional nesting, projection, and return. The persistence-and-becoming principle explains how an organized identity can survive that transformation without becoming permanently fixed.
 
-$
+$$
 \boxed{
 \begin{aligned}
 \text{Multilevel inversion}
@@ -138,7 +138,7 @@ $
 &\rightarrow \text{continuity through transformation}.
 \end{aligned}
 }
-$
+$$
 
 The principle is universal within the architecture, while its measurable variables and implementation can differ across scale-specific sub-branches. It applies at multiple scales:
 
