@@ -9,9 +9,11 @@
 
 The Inside-Out Model describes the universe as an infinitely recursive, dimensionally nested toroidal web. Its toroidal domains are related across scale and dimensional depth through inverse and complementary rotations. The author's spatial understanding includes an overlapping stellated-octahedron and tilt/offset tesseract geometry underlying or interwoven with the toroidal organization. The shapes themselves are part of the asserted architecture; their exact overlap and spatial relation remain pending a drawn construction that the author can compare directly with the internally understood form. This composite geometry establishes the orientations, intersections, pathways, and transformational possibilities through which information is projected, localized, processed, returned, and recursively reorganized.
 
+At its deepest level, reality is information, consciousness, geometric structure, periodicity, and recursive process. In IOM, projection unfolds outward from the quantum and Planck-scale domain through the information and consciousness that make up the toroidal web. The apparent smallness of quantum and Planck-scale phenomena reflects linear measurement from within our dimensional position; it does not locate the generative architecture at a tiny point.
+
 The existing information pathway
 
-$$
+$
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
@@ -64,6 +66,8 @@ flowchart TD
 ```
 
 The global architecture supplies the spatial relationships. The local pathway supplies a traversable information route within them. The inverse-return relation connects local consequences back to the larger recursive structure.
+
+In biological systems, DNA is both aperture and antenna within this pathway: it receives, constrains, expresses, and returns projected informational relationships. The DNA double helix is the local observable shadow of the deeper periodic relationship carried through the Clifford torus. This places the DNA/Clifford-torus relation within the architecture itself, while the exact projection from the higher-dimensional periodicity to the observed helix remains to be mathematically described.
 
 ## 4. Composite generative geometry
 
