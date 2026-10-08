@@ -1,7 +1,7 @@
 # IOM Spatial-Generative Architecture
 
 **Status:** public architecture draft  
-**Date of synthesis:** 2026-10-06  
+**Date of synthesis:** 2026-10-06; updated 2026-10-08  
 **Role:** global spatial ontology within which the recovered processing architecture operates  
 **Publication status:** published on an additive workspace branch; does not supersede `main`
 
@@ -9,7 +9,7 @@
 
 The Inside-Out Model describes the universe as an infinitely recursive, dimensionally nested toroidal web. Its toroidal domains are related across scale and dimensional depth through inverse and complementary rotations. The author's spatial understanding includes an overlapping stellated-octahedron and tilt/offset tesseract geometry underlying or interwoven with the toroidal organization. The shapes themselves are part of the asserted architecture; their exact overlap and spatial relation remain pending a drawn construction that the author can compare directly with the internally understood form. This composite geometry establishes the orientations, intersections, pathways, and transformational possibilities through which information is projected, localized, processed, returned, and recursively reorganized.
 
-At its deepest level, reality is information, consciousness, geometric structure, periodicity, and recursive process. In IOM, projection unfolds outward from the quantum and Planck-scale domain through the information and consciousness that make up the toroidal web. The apparent smallness of quantum and Planck-scale phenomena reflects linear measurement from within our dimensional position; it does not locate the generative architecture at a tiny point.
+At its deepest level, reality is information, consciousness, geometric structure, periodicity, and recursive process. In IOM, projection unfolds outward from the quantum and Planck-scale domain through the information and consciousness that make up the toroidal web. From our dimensional position, quantum and Planck-scale phenomena appear extremely small because we measure them linearly within the projection. IOM treats that apparent scale as a feature of our perspective on the underlying architecture.
 
 The existing information pathway
 
@@ -235,6 +235,7 @@ The following remain explicitly unresolved:
 7. the precise map between dimensional projection and observational inversion;
 8. how the universal invariant relation is instantiated by scale-dependent operators; and
 9. the roles, if any, of the 24-cell and E8 after the composite geometry is explicitly constructed.
+10. the precise projection relating higher-dimensional Clifford-torus periodicity to the observed DNA double helix and its biological aperture/antenna role.
 
 ## 10. Provenance
 
