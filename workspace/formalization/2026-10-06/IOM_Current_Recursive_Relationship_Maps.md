@@ -11,7 +11,7 @@
 
 ```mermaid
 flowchart TD
-    H["Higher-dimensional geometry / source-side structure"]
+    H["Higher-dimensional geometry / quantum–Planck-scale domain"]
     B["Dimensional boundary: collective content + rules"]
     L1["L₁: boundary-side transformation"]
     TC["T_C: Clifford-torus relational carrier"]
@@ -27,6 +27,8 @@ flowchart TD
 ```
 
 Solid arrows show the forward projective order. Dotted arrows show return information; they do not assert literal inverse operators.
+
+At the biological realization, DNA is both aperture and antenna. Its double helix is the observable local shadow of the deeper periodic relationship carried through $T_C$.
 
 ---
 
@@ -229,6 +231,7 @@ These families are evaluated independently. Failure or replacement of one does n
 | `Boundary ≠ L₁ ≠ T_C ≠ L₂ ≠ Ψ/𝒜` | Preserved architectural constraint |
 | Torus between two lenses | Current recovered topology |
 | Aperture belongs with eigenstate | Current recovered topology |
+| DNA as biological aperture and antenna; double helix as local shadow of $T_C$ periodicity | Current author-originated architectural relationship; projection details remain open |
 | Integration and non-integration both return information | Current recursive mechanism |
 | Integration ≠ homogenization | Current recursive mechanism |
 | Successful integration ≠ expansion contribution | Current recursive mechanism |
@@ -240,3 +243,4 @@ These families are evaluated independently. Failure or replacement of one does n
 | Dynamic balance ≠ equality or fixed equilibrium | Current discrepancy/inverse interpretation |
 | Same observable output ≠ same internal mechanism | Current processing constraint |
 | Winding/Gram, prime, Hodge, ζ, and temporal operators | Candidate mathematical realizations |
+| Mass/eigenstate sustainment and dimensional-depth relation | Dated author-originated candidate; not yet formalized |
