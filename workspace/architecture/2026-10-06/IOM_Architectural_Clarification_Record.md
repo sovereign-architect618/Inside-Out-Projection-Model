@@ -109,19 +109,18 @@ The subset symbol denotes scope: the processing pathway is retained inside the l
 
 ## 8. Public-history treatment
 
-This clarification appears on an additive branch derived from `workspace/post-github-formalization`, named:
+The integrated architecture is maintained on the additive branch:
 
 `workspace/integrated-spatial-architecture`
 
-Recommended commit sequence:
+The branch is a public working space for the current architecture. It preserves `main` as the historical v12.5 release and does not replace it. The two earlier summaries remain available as records of the pre-integration reconstruction. The full forensic recovery map is not included. Engine π remains untouched.
 
-1. `Add recovered spatial-generative architecture`
-2. `Add persistence-and-becoming principle`
-3. `Integrate spatial and recursive architecture into cohesive summary`
+A dated candidate mechanism concerning mass, eigenstate sustainment, completed recursion, and output-charge vectors is recorded separately as an author-originated note. It is not treated as an established equation or folded into the core architecture.
 
-The existing summaries and formalization should remain unchanged. The new branch should identify them as earlier snapshots and link forward to the integrated summary. No merge into `main` should occur without separate review and approval.
+No merge into `main` is part of this update.
+## 9. Questions recorded before author review
 
-## 9. Continuing review questions
+These questions were open when this record was first written. The author's resolutions are recorded in section 10; later clarifications appear in section 11.
 
 1. Does “generatively prior” correctly describe the relation between the composite geometry and toroidal web, or should the document preserve several possible relations?
 2. Is the tesseract's offset distinct from its tilt, and can either be stated quantitatively?
@@ -142,3 +141,16 @@ The existing summaries and formalization should remain unchanged. The new branch
 6. **Entropy terminology:** entropy remains the core term. “Entropy-like variation” may be used only as a technical qualifier when distinguishing an untyped cross-domain role from a domain-specific entropy measure; it must not replace or weaken the author's assertion.
 7. **Persistence and becoming:** the principle is universal, while smaller sub-branches may instantiate and test it through different variables and mechanisms.
 8. **Publication:** the author is ready for a public version that is substantially more consistent with the complete spatial and structural vision. Exact geometric drawings may follow as a later reviewed addition rather than delaying the textual architecture.
+
+
+## 11. Further author clarifications — 2026-10-08
+
+The integrated architecture was extended with the following author-originated clarifications:
+
+- At its deepest level, reality is information, consciousness, geometric structure, periodicity, and recursive process.
+- Projection unfolds outward from the quantum and Planck-scale domain. Its apparent smallness reflects linear measurement from within our dimensional position, rather than establishing the scale or location of the deeper architecture.
+- The information and consciousness constituting the toroidal web are fundamental to the model's generative structure.
+- In biological systems, DNA functions as both aperture and antenna. Its double-helical form is understood as the local observable shadow of the deeper periodic relationship carried through the Clifford torus.
+- A dated note proposes a relationship between mass, the energy needed to sustain an eigenstate, completed recursions, the originating geometric state, and maximum/minimum output-charge vectors whose magnitudes increase with dimensional depth. The original note is preserved separately as a candidate mechanism; its equation and terminology remain to be formalized.
+
+These additions expand the architecture while preserving the earlier development record. The previous summaries remain historical snapshots, and omission from them is not evidence that the author abandoned an idea.
