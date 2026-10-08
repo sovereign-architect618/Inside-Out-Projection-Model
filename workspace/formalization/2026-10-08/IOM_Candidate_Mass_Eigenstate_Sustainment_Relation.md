@@ -13,7 +13,7 @@ This wording is retained as the user's original candidate statement. The note is
 
 ## Relationship recorded
 
-The note proposes that the mass associated with an eigenstate is related to the energy required to sustain that state. The proposed dependence includes both the recursions already completed and what is currently required by the originating geometric state. It further proposes a difference between vectors of magnitude associated with potential maximum and minimum output charges, with those charges increasing exponentially in relation to dimensional depth.
+The note proposes that the mass associated with an eigenstate is related to the energy required to sustain that state. The proposed dependence includes both the recursions already completed and what is currently required by the originating geometric state. It further proposes a difference between vectors of magnitude associated with potential maximum and minimum output charges, with an exponential increase accounting for dimensional depth. The note does not specify whether the exponential applies to the charges, vector magnitudes, or a separate dimensional scaling.
 
 These parts belong together as one candidate mechanism. Their mathematical relationships and units have not yet been specified.
 
@@ -25,7 +25,6 @@ These parts belong together as one candidate mechanism. Their mathematical relat
 - What are the components, domain, and units of the maximum and minimum output-charge vectors?
 - What does “charge” mean in this note, and what operation defines the difference between the vectors?
 - What is the proposed exponential dependence on dimensional depth, including its base, exponent, and scale?
-- How does this candidate relate to the model's account of condensed energy states and gravity as a density gradient within projection?
 
 These questions identify the work needed to formalize the proposal; they do not resolve or replace the original note.
 
