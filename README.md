@@ -8,7 +8,9 @@ Nothing on this branch silently replaces the development record. Earlier formula
 
 ## The larger architecture
 
-IOM describes reality as an inside-out projection arising from an internal source condition, represented as $r=0$, within an infinitely recursive and dimensionally nested toroidal web. Its spatial structure includes an overlapping stellated-octahedron and tilt/offset tesseract geometry. The exact drawn construction of that overlap remains open for visual confirmation; the asserted forms and their structural role are retained.
+At its deepest level, IOM understands reality through information, consciousness, geometric structure, periodicity, and recursive processes. Projection unfolds outward from the quantum and Planck-scale domain into an infinitely recursive, dimensionally nested toroidal web. The apparent smallness of that domain reflects linear measurement from our dimensional position within the projection; it does not place the generative architecture at a tiny point. The web's spatial structure includes an overlapping stellated octahedron and tilted, offset tesseract. The exact drawn construction remains open for direct visual confirmation.
+
+In biological systems, DNA is understood as both aperture and antenna within the pathway. Its double-helical form is the local, observable shadow of the deeper periodic relationship carried through the Clifford torus.
 
 The local information-processing pathway is:
 
@@ -50,9 +52,10 @@ Coherence supplies continuity, organization, identity, and memory. Entropy suppl
 2. **[Spatial-Generative Architecture](workspace/architecture/2026-10-06/IOM_Spatial_Generative_Architecture.md)** — the nested toroidal web, composite geometry, and multilevel inverse relation.
 3. **[Persistence-and-Becoming Principle](workspace/architecture/2026-10-06/IOM_Persistence_and_Becoming_Principle.md)** — the coherence–entropy viability law.
 4. **[Post-GitHub Formalization Draft](workspace/formalization/2026-10-06/IOM_Post_GitHub_Formalization_Draft.md)** — proposed equations for the recovered mechanisms.
-5. **[Current Recursive Relationship Maps](workspace/formalization/2026-10-06/IOM_Current_Recursive_Relationship_Maps.md)** — representative mechanism and dependency maps.
-6. **[Architectural Clarification Record](workspace/architecture/2026-10-06/IOM_Architectural_Clarification_Record.md)** — provenance, development status, and unresolved definitions.
-7. **[Two Cohesive Theory Summaries](workspace/recovery/2026-10-06/IOM_Two_Cohesive_Theory_Summaries.md)** — the earlier recovered account before the spatial integration became explicit.
+5. **[Candidate Mass–Eigenstate Sustainment Relation](workspace/formalization/2026-10-08/IOM_Candidate_Mass_Eigenstate_Sustainment_Relation.md)** — a dated author-originated candidate mechanism, preserved before mathematical formalization.
+6. **[Current Recursive Relationship Maps](workspace/formalization/2026-10-06/IOM_Current_Recursive_Relationship_Maps.md)** — representative mechanism and dependency maps.
+7. **[Architectural Clarification Record](workspace/architecture/2026-10-06/IOM_Architectural_Clarification_Record.md)** — provenance, development status, and unresolved definitions.
+8. **[Two Cohesive Theory Summaries](workspace/recovery/2026-10-06/IOM_Two_Cohesive_Theory_Summaries.md)** — the earlier recovered account before the spatial integration became explicit.
 
 ## Branch guide
 
@@ -82,3 +85,4 @@ This repository is a research and reconstruction workspace, not yet a final engi
 3. Define scale-specific implementations of the universal persistence-and-becoming principle.
 4. Type the domains, codomains, units, and observables of the proposed equations.
 5. Separate conceptual, computational, and empirical test tracks before preparing the engineering handoff.
+6. Preserve and define dated candidate mechanisms, including the mass/eigenstate sustainment note, without treating them as settled equations.
