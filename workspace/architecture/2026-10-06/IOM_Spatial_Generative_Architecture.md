@@ -29,7 +29,7 @@ L_2
 \text{Observable Projection}
 $$
 
-is therefore a local traversal through a larger spatial system. It is not, by itself, a complete map of the universe's structure.
+is a local traversal through the larger spatial system, moving through the relationships established by the global geometry.
 
 ## 2. Foundational clarification
 
@@ -44,7 +44,7 @@ It appears as:
 5. alternating orientation between outward projection and inward reintegration; and
 6. an observational inversion produced when a higher-dimensional process is rendered within a lower-dimensional frame.
 
-These are not six competing meanings. They are six cross-sections of the same relationship in different representational domains.
+Together, these six expressions show how the same relationship appears across different representational domains.
 
 ## 3. Global and local architecture
 
@@ -71,7 +71,7 @@ In biological systems, DNA is both aperture and antenna within this pathway: it 
 
 ## 4. Composite generative geometry
 
-The currently preferred underlying form is not simply E8. It is the author's overlapping stellated-octahedron and offset, tilted tesseract geometry. E8 entered the history as a possible match or explanatory structure for that form; it should not replace the form merely because it offers a familiar mathematical label.
+The underlying form currently preferred by the author is the overlapping stellated-octahedron and offset, tilted tesseract geometry. E8 entered the history as a possible mathematical match or explanatory structure for that composite form; the composite geometry remains the starting point for evaluating the match.
 
 A provisional symbolic placeholder is
 
@@ -154,7 +154,7 @@ with:
 | $\mathsf C_k$ | Alternation of outward and inward recursion |
 | $\mathsf O_k$ | Observational inversion under dimensional projection |
 
-The tuple is an analytic decomposition of one operation. It should not be interpreted as evidence that the author originally proposed six independent operators. A particular recursion need not invert every component. The operator may preserve handedness while inverting winding, dimensional orientation, flow direction, or another component. Formally, a component map may be the identity in one recursion and nontrivial in another:
+The tuple is an analytic decomposition created for this synthesis. The author affirmed the shared underlying relationship; the six-part tuple is AI-generated formalization. A particular recursion need not invert every component. The operator may preserve handedness while inverting winding, dimensional orientation, flow direction, or another component. Formally, a component map may be the identity in one recursion and nontrivial in another:
 
 $$
 \mathfrak I_k^{(n)}
@@ -175,7 +175,7 @@ The Clifford torus can serve all three roles identified in review:
 - **cross-section** when describing how a local dimensional view exposes part of the larger web; and
 - **repeating cell** when describing how the same toroidal organization recurs across nested levels.
 
-These are functional perspectives on the same structure, not three mutually exclusive objects.
+They describe the same structure from different functional perspectives.
 
 ## 7. Return is not rewind
 
