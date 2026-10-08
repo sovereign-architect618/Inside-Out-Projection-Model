@@ -13,7 +13,7 @@ At its deepest level, reality is information, consciousness, geometric structure
 
 The existing information pathway
 
-$
+$$
 \text{Higher-Dimensional Geometry}
 \rightarrow
 \text{Dimensional Boundary}
