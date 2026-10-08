@@ -127,7 +127,7 @@ This creates several distinct corrective regimes:
 
 ## 7. Relationship to the spatial architecture
 
-The multilevel inverse relation explains how transformation moves through geometry, winding, dimensional nesting, projection, and return. The persistence-and-becoming principle explains how an organized identity can survive that transformation without becoming permanently fixed.
+The multilevel inverse relation explains how transformation moves through geometry, winding, dimensional nesting, projection, and return. The persistence-and-becoming principle explains how an organized identity can survive that transformation without becoming permanently fixed. The tilted tesseract gives this asymmetry its spatial expression and forward-driving effect: it keeps recursive movement from resolving into perfect repetition. The author's “tilt” and “offset” describe the same perceived non-alignment; the exact geometric decomposition and its mathematical connection to coherence and entropy remain to be defined.
 
 $$
 \boxed{
