@@ -10,7 +10,7 @@
 
 The current recovered architecture is:
 
-$$
+```math
 \mathscr H
 \longrightarrow
 B
@@ -24,11 +24,11 @@ L_2
 \Psi_i/\mathcal A_i
 \longrightarrow
 O_i,
-$$
+```
 
 with a return of information through
 
-$$
+```math
 \Psi_i/\mathcal A_i
 \longrightarrow
 L_2
@@ -38,7 +38,7 @@ T_C
 L_1
 \longrightarrow
 B.
-$$
+```
 
 Here $\mathscr H$ is higher-dimensional/source-side structure, $B$ is the collective dimensional boundary, $L_1$ is the boundary-side lens, $T_C$ is the Clifford-torus relational carrier, $L_2$ is the pre-eigenstate lens, $\Psi_i/\mathcal A_i$ is localized eigenstate $i$ together with its aperture/antenna, and $O_i$ is an observable or experienced projection.
 
@@ -68,29 +68,29 @@ Use:
 
 At scale $\sigma$, define:
 
-$$
+```math
 S_\sigma^{(k)}\in\mathbb S_\sigma
-$$
+```
 
 as the realized structure at stage $k$, and
 
-$$
+```math
 \Delta_\sigma^{(k)}
 =
 S_\sigma^{(k+1)}\ominus S_\sigma^{(k)}
-$$
+```
 
 as the structure required by the next stage but not yet realized. The symbol $\ominus$ is intentionally abstract. If $S_\sigma^{(k)}$ and $S_\sigma^{(k+1)}$ are nested vector spaces, it may be instantiated as the quotient
 
-$$
+```math
 S_\sigma^{(k+1)}/S_\sigma^{(k)}.
-$$
+```
 
 If the states are graphs, manifolds, codes, or structured data, $\ominus$ must instead mean the appropriate structural difference.
 
 For eigenstate $i$, define the current processing state as
 
-$$
+```math
 \boxed{
 X_{i,n}
 =
@@ -104,7 +104,7 @@ w_{i,n},
 \vartheta_{i,n}
 \right).
 }
-$$
+```
 
 The components are:
 
@@ -124,67 +124,67 @@ This keeps orientation $(d,w)$, processing capacity, realized geometry, unresolv
 
 Let the source-side state at recursion $n$ be
 
-$$
+```math
 h_n\in\mathbb H.
-$$
+```
 
 Separate boundary **content** from boundary **rules**:
 
-$$
+```math
 B_n=(K_n,\Theta_n),
-$$
+```
 
 where $K_n$ is the current collective encoding and $\Theta_n$ specifies the governing boundary operation.
 
 The boundary interface is
 
-$$
+```math
 \mathcal B_{\Theta_n}:\mathbb H\times\mathbb K\rightarrow\mathbb B,
 \qquad
 b_n=\mathcal B_{\Theta_n}(h_n,K_n).
-$$
+```
 
 The first lens maps boundary-level information into a torus-compatible representation:
 
-$$
+```math
 L_{1,n}:\mathbb B\rightarrow\mathbb T,
 \qquad
 u_n=L_{1,n}(b_n).
-$$
+```
 
 The torus carrier evolves or transports that representation:
 
-$$
+```math
 \mathcal C_{T,n}:\mathbb T\rightarrow\mathbb T,
 \qquad
 q_n=\mathcal C_{T,n}(u_n).
-$$
+```
 
 The second lens is eigenstate-conditional:
 
-$$
+```math
 L_{2,i,n}:\mathbb T\times\mathbb X_i\rightarrow\mathbb Y_i,
 \qquad
 y_{i,n}=L_{2,i,n}(q_n;X_{i,n}).
-$$
+```
 
 The eigenstate aperture admits a state-dependent portion:
 
-$$
+```math
 \mathsf A_{i,n}:\mathbb Y_i\rightarrow\mathbb A_i,
 \qquad
 a_{i,n}=\mathsf A_{i,n}(y_{i,n};X_{i,n}).
-$$
+```
 
 The localized observable is
 
-$$
+```math
 o_{i,n}=\mathsf O_i(a_{i,n};X_{i,n}).
-$$
+```
 
 The complete forward operator is therefore
 
-$$
+```math
 \boxed{
 \mathcal P_{i,n}
 =
@@ -195,7 +195,7 @@ $$
 \circ L_{1,n}
 \circ\mathcal B_{\Theta_n}.
 }
-$$
+```
 
 This is a `SYNTHESIS-DRAFT` composition of `CORE-RELATION` components. It deliberately does not identify the boundary, either lens, the torus, or the aperture with one another.
 
@@ -207,7 +207,7 @@ This is a `SYNTHESIS-DRAFT` composition of `CORE-RELATION` components. It delibe
 
 A standard Clifford-torus embedding is
 
-$$
+```math
 \chi(\theta,\phi)
 =
 \left(
@@ -216,28 +216,28 @@ R_1\sin\theta,
 R_2\cos\phi,
 R_2\sin\phi
 \right),
-$$
+```
 
 with
 
-$$
+```math
 R_1^2+R_2^2=1
-$$
+```
 
 for the unit $3$-sphere realization. The equal-radius case uses
 
-$$
+```math
 R_1=R_2=\frac1{\sqrt2}.
-$$
+```
 
 An information field on the torus can be represented by a Fourier expansion
 
-$$
+```math
 F_n(\theta,\phi)
 =
 \sum_{(a,b)\in\mathbb Z^2}
 c_{a,b}^{(n)}e^{i(a\theta+b\phi)}.
-$$
+```
 
 This provides an implementation-neutral meaning for a periodic relational carrier: the coefficient set $\{c_{a,b}^{(n)}\}$ carries global mode information, while a lens or aperture can select a restricted observable combination.
 
@@ -245,23 +245,23 @@ This provides an implementation-neutral meaning for a periodic relational carrie
 
 Let a primitive winding be
 
-$$
+```math
 \mathbf w_i=(a_i,b_i)\in\mathbb Z^2,
 \qquad
 \gcd(a_i,b_i)=1.
-$$
+```
 
 Its closed torus curve is
 
-$$
+```math
 \gamma_i(s)
 =
 \chi(a_is+\theta_{0,i},b_is+\phi_{0,i}).
-$$
+```
 
 For two windings, define the signed relational determinant
 
-$$
+```math
 \boxed{
 \Omega_{ij}
 =
@@ -272,13 +272,13 @@ a_j&b_j
 \end{pmatrix}
 =a_ib_j-b_ia_j.
 }
-$$
+```
 
 Then:
 
-$$
+```math
 \Omega_{ij}=0
-$$
+```
 
 means the two winding directions are linearly dependent, while $|\Omega_{ij}|$ measures their oriented lattice-area relation. This post-GitHub construction is mathematically well-defined. Its interpretation as an eigenstate relation remains a `HISTORICAL-CANDIDATE`.
 
@@ -286,19 +286,19 @@ means the two winding directions are linearly dependent, while $|\Omega_{ij}|$ m
 
 The later branch work correctly preserves the possibility that one scalar label is insufficient:
 
-$$
+```math
 \mathbf W_i=(W_{i1},\ldots,W_{im}),
 \qquad
 \mathbf O_i=\mathcal P_W(\mathbf W_i).
-$$
+```
 
 A useful discriminability condition is
 
-$$
+```math
 \mathbf W_i\neq\mathbf W_j
 \quad\Longrightarrow\quad
 \mathbf O_i\neq\mathbf O_j
-$$
+```
 
 for the subset of internal distinctions the readout is intended to preserve. This is a design requirement, not a claim that every internal difference must be externally observable.
 
@@ -310,7 +310,7 @@ for the subset of internal distinctions the readout is intended to preserve. Thi
 
 The post-release reconstruction explicitly separates:
 
-$$
+```math
 \text{exposure}
 \neq
 \text{effect}
@@ -324,39 +324,39 @@ $$
 \text{understanding}
 \neq
 \text{integration}.
-$$
+```
 
 Represent these as a local interaction state
 
-$$
+```math
 \mathbf z_{i,n}
 =
 (e^{\rm exp},e^{\rm eff},a^{\rm aware},c^{\rm cap},w,u,j)_{i,n}.
-$$
+```
 
 No total order is assumed. For example,
 
-$$
+```math
 a^{\rm aware}>0,
 \qquad
 u=0,
 \qquad
 e^{\rm eff}>0
-$$
+```
 
 represents information that affects a system without being understood. Similarly, equal observable behavior does not imply equal internal state:
 
-$$
+```math
 o_i=o_j
 \centernot\Longrightarrow
 \mathbf z_i=\mathbf z_j.
-$$
+```
 
 ### 5.2 Orientation, representation fidelity, and expectation
 
 Let $e_n$ be encountered information and $e_{i,n}^\star$ the state expected or preferred by eigenstate $i$. A historical candidate for expectation-driven distortion was
 
-$$
+```math
 \boxed{
 \widetilde e_{i,n}
 =
@@ -366,11 +366,11 @@ w_{i,n}e_n
 \qquad
 w_{i,n}\in[0,1].
 }
-$$
+```
 
 Its associated fidelity was
 
-$$
+```math
 \boxed{
 F_{i,n}
 =
@@ -378,18 +378,18 @@ F_{i,n}
 \frac{\|\widetilde e_{i,n}-e_n\|}
 {\|e_{i,n}^\star-e_n\|+\varepsilon}.
 }
-$$
+```
 
 For this linear toy model, $F_{i,n}\approx w_{i,n}$. The equation is a `HISTORICAL-CANDIDATE`; the accepted relationship is that willingness to encounter what differs from expectation is not the same as processing capacity.
 
 The older phrase “expectation = entropy” can be represented more cautiously as an entropy-production candidate:
 
-$$
+```math
 \Delta S^{\rm unresolved}_{i,n}
 \propto
 \bigl\|e_n-\widetilde e_{i,n}\bigr\|
 \left(1-J_{i,n}\right),
-$$
+```
 
 where $J_{i,n}\in[0,1]$ is degree of integration. This encodes the recovered meaning: observation constrained toward expectation without integration contributes unresolved informational entropy. It does not assert a literal dimensional identity between thermodynamic entropy and expectation.
 
@@ -397,61 +397,61 @@ where $J_{i,n}\in[0,1]$ is degree of integration. This encodes the recovered mea
 
 Use three separate state-dependent operators:
 
-$$
+```math
 \mathsf A_i=\text{admission/aperture},
 \qquad
 \mathsf D_i=\text{discernment},
 \qquad
 \mathsf J_i=\text{integration}.
-$$
+```
 
 Their composition is
 
-$$
+```math
 \boxed{
 \mathcal R_i
 =
 \mathsf J_i\circ\mathsf D_i\circ\mathsf A_i.
 }
-$$
+```
 
 For encounter $e_{i,n}$:
 
-$$
+```math
 a_{i,n}=\mathsf A_i(e_{i,n};X_{i,n}),
-$$
+```
 
-$$
+```math
 (\widehat e_{i,n},q_{i,n})
 =
 \mathsf D_i(a_{i,n};X_{i,n}),
-$$
+```
 
-$$
+```math
 z_{i,n}
 =
 \mathsf J_i(U_{i,n},\widehat e_{i,n},q_{i,n}).
-$$
+```
 
 The aperture should not be maximized universally. If $\rho_{i,n}\in[0,1]$ is aperture width, define admitted load
 
-$$
+```math
 L_{i,n}=\rho_{i,n}\|e_{i,n}\|.
-$$
+```
 
 A necessary capacity condition is
 
-$$
+```math
 L_{i,n}\le C_{i,n},
-$$
+```
 
 where $C_{i,n}$ is current integration capacity. The appropriate aperture is conditional:
 
-$$
+```math
 \rho_{i,n}^*
 =
 f(C_{i,n},e_{i,n},U_{i,n},\mathcal H_{i,n}).
-$$
+```
 
 This implements the Conditional-Solution Principle: the invariant is the method for finding a viable operation, not one universally preferred aperture state.
 
@@ -459,15 +459,15 @@ This implements the Conditional-Solution Principle: the invariant is the method 
 
 The integrated result is not required to overwrite either structure. Write
 
-$$
+```math
 U_{i,n+1}
 =
 \mathcal J(U_{i,n},z_{i,n})
-$$
+```
 
 subject to preservation constraints
 
-$$
+```math
 \mathcal I_{\rm old}(U_{i,n+1})
 \ge
 \underline I_{\rm old},
@@ -475,11 +475,11 @@ $$
 \mathcal I_{\rm new}(U_{i,n+1})
 \ge
 \underline I_{\rm new}.
-$$
+```
 
 The invariants $\mathcal I_{\rm old}$ and $\mathcal I_{\rm new}$ must be chosen for the substrate. The formal requirement is:
 
-$$
+```math
 \boxed{
 \text{integration}
 \neq
@@ -487,7 +487,7 @@ $$
 \neq
 \text{homogenization}.
 }
-$$
+```
 
 ---
 
@@ -497,31 +497,31 @@ Successful integration and contribution to the next structural expansion are dis
 
 Let $\Pi_{\Delta_i^{(k)}}$ select the component relevant to the currently missing structure:
 
-$$
+```math
 \boxed{
 c_{i,n}
 =
 \Pi_{\Delta_i^{(k)}}z_{i,n}.
 }
-$$
+```
 
 Then:
 
-$$
+```math
 z_{i,n}\neq0,
 \qquad
 c_{i,n}=0
-$$
+```
 
 means that an encounter was integrated but was redundant or irrelevant to the present expansion requirement. History still updates:
 
-$$
+```math
 \mathcal H_{i,n+1}
 =
 \mathcal H_{i,n}
 \oplus
 (e_{i,n},\widetilde e_{i,n},\widehat e_{i,n},z_{i,n},c_{i,n}).
-$$
+```
 
 The operation $\oplus$ preserves ordering and provenance; it is not assumed to be commutative.
 
@@ -533,92 +533,92 @@ The operation $\oplus$ preserves ordering and provenance; it is not assumed to b
 
 Let the required structure for the next stage be represented by a directed graph
 
-$$
+```math
 G_i^{(k)}=(V_i^{(k)},E_i^{(k)}).
-$$
+```
 
 Vertices are required structural relations; directed edges encode prerequisite or recursive dependence. Cycles are allowed. Decompose the graph into strongly connected components:
 
-$$
+```math
 \operatorname{SCC}(G_i^{(k)})
 =
 \{L_1,\ldots,L_m\}.
-$$
+```
 
 The condensation graph $\operatorname{Cond}(G_i^{(k)})$ is acyclic. This supplies a precise representation of:
 
-$$
+```math
 \boxed{
 \text{local cycles}
 +
 \text{global directional expansion}.
 }
-$$
+```
 
 ### 7.2 Loop completion
 
 For requirement $v$, let $x_v(n)\in[0,1]$ measure realized support and $\theta_v$ be its completion threshold. For loop $L$:
 
-$$
+```math
 \boxed{
 Q_L(n)
 =
 \min_{v\in L}
 \min\!\left(1,\frac{x_v(n)}{\theta_v}\right).
 }
-$$
+```
 
 The loop is open when $Q_L<1$ and complete when $Q_L=1$. Completion does not erase the history:
 
-$$
+```math
 L_{\rm unresolved}
 \longrightarrow
 L_{\rm integrated}
 \subseteq
 U_i^{(k+1)}.
-$$
+```
 
 ### 7.3 Completion functional
 
 Let
 
-$$
+```math
 \Gamma_i^{(k)}(n)
 =
 F_{G_i}
 \left(c_{i,1},\ldots,c_{i,n}\right)
 \in[0,1]
-$$
+```
 
 measure completion of the required graph, including rank, directional support, multiplicity, coupling, order, and loop closure. Expansion occurs at
 
-$$
+```math
 \boxed{
 T_{{\rm expand},i}^{(k)}
 =
 \inf\{n:\Gamma_i^{(k)}(n)=1\}.
 }
-$$
+```
 
 The geometry determines the requirements:
 
-$$
+```math
 G_i^{(k)}
 \longrightarrow
 N_{{\rm req},i}^{(k)},
-$$
+```
 
 while history, capacity, orientation, encounters, and unresolved coupling determine traversal time:
 
-$$
+```math
 (G_i^{(k)},X_{i,0},\{e_{i,n}\})
 \longrightarrow
 T_{{\rm expand},i}^{(k)}.
-$$
+```
 
 Therefore:
 
-$$
+```math
 \boxed{
 \text{recursive depth}
 \neq
@@ -626,7 +626,7 @@ $$
 \neq
 \text{elapsed recursion count}.
 }
-$$
+```
 
 ---
 
@@ -634,49 +634,49 @@ $$
 
 Define the factors:
 
-$$
+```math
 E_{i,n}=\text{engagement probability},
-$$
+```
 
-$$
+```math
 F_{i,n}=\text{representation fidelity},
-$$
+```
 
-$$
+```math
 b_{i,n}=\text{discernment-bypass degree},
-$$
+```
 
-$$
+```math
 D_{i,n}=\text{discernment success},
-$$
+```
 
-$$
+```math
 J_{i,n}=\text{integration success},
-$$
+```
 
-$$
+```math
 G_{ir,n}=\text{relevance to required component }r.
-$$
+```
 
 All lie in $[0,1]$. A toy factorization from the branch work is
 
-$$
+```math
 \boxed{
 p_{ir,n}^{\rm geom}
 =
 E_{i,n}F_{i,n}(1-b_{i,n})D_{i,n}J_{i,n}G_{ir,n}.
 }
-$$
+```
 
 This factorization is a `HISTORICAL-CANDIDATE`. Its useful structural claim is that identical failure outputs can arise at different stages and require different corrective operations.
 
 For sequentially gated requirements, an approximate expected traversal time is
 
-$$
+```math
 \mathbb E[T_{\rm expand}]
 \approx
 \sum_{r=1}^{m}\frac1{p_{ir}},
-$$
+```
 
 provided attempts are approximately independent and each component is completed once. Parallel requirements, reinforcement, dependency, and nonstationary probabilities require a Markov, semi-Markov, or graph-process model instead.
 
@@ -688,7 +688,7 @@ provided attempts are approximately independent and each component is completed 
 
 For a single unresolved component:
 
-$$
+```math
 r_{n+1}
 =
 \mathcal P_+
@@ -701,45 +701,45 @@ c_{n+1}
 \right],
 \qquad
 \beta>\alpha,
-$$
+```
 
 where $e_{n+1}$ is new excitation, $c_{n+1}$ is successfully resolved content, and $\mathcal P_+$ projects into the admissible nonnegative state space.
 
 If
 
-$$
+```math
 \mathbb E[c_n\mid r_n]
 =
 \eta p_nr_n,
-$$
+```
 
 then
 
-$$
+```math
 \mathbb E[r_{n+1}\mid r_n]
 =
 (\beta-\eta p_n)r_n.
-$$
+```
 
 Define
 
-$$
+```math
 \lambda=\beta-\eta p.
-$$
+```
 
 The toy threshold is
 
-$$
+```math
 \boxed{
 p^*=\frac{\beta-1}{\eta}.
 }
-$$
+```
 
 Provided the effective multiplier remains nonnegative, $p>p^*$ gives expected contraction, $p=p^*$ persistence, and $p<p^*$ amplification. More generally, the linearized contraction condition is
 
-$$
+```math
 |\beta-\eta p|<1.
-$$
+```
 
 Both statements are subject to the toy model's assumptions and the effect of the nonnegative projection.
 
@@ -747,7 +747,7 @@ Both statements are subject to the toy model's assumptions and the effect of the
 
 Let
 
-$$
+```math
 \mathbf r_{n+1}
 =
 \mathcal P_+
@@ -758,47 +758,47 @@ B\mathbf r_n
 +
 \alpha\mathbf e_{n+1}
 \right],
-$$
+```
 
 where diagonal terms of $B$ encode self-persistence and off-diagonal terms encode coupling among unresolved components. With
 
-$$
+```math
 \mathbb E[\mathbf c_n\mid\mathbf r_n]
 =
 H_n\mathbf r_n,
 \qquad
 H_n=\operatorname{diag}(\eta_1p_1,\ldots,\eta_mp_m)
-$$
+```
 
 in the simplest realization, define
 
-$$
+```math
 M_n=B-H_n.
-$$
+```
 
 The coupled structure contracts asymptotically when
 
-$$
+```math
 \boxed{
 \rho(M_n)<1,
 }
-$$
+```
 
 where $\rho$ is spectral radius. If
 
-$$
+```math
 M\mathbf v_*=\lambda_*\mathbf v_*,
 \qquad
 |\lambda_*|=\rho(M),
-$$
+```
 
 then $\mathbf v_*$ identifies the dominant persistent combination. This supplies a precise candidate meaning for geometrically appropriate intervention:
 
-$$
+```math
 \boxed{
 \text{target the unstable relational mode, not every variable uniformly}.
 }
-$$
+```
 
 ---
 
@@ -808,7 +808,7 @@ $$
 
 The recovered exploratory equation was
 
-$$
+```math
 \mathcal D_{\rm IOM}(M)
 =
 \sup_{B\in\mathcal L_1}
@@ -817,7 +817,7 @@ $$
 -
 \varphi\mu(B)
 \right|.
-$$
+```
 
 It attempted to compare an eigenstate-dependent informational density with a golden-ratio-weighted reference over boundary/lens regions. It remains `UNRESOLVED/CONFLICT` because the collective boundary is not reducible to a single-eigenstate density, $\mathcal L_1$ was used ambiguously, and the reference measure was not derived.
 
@@ -827,21 +827,21 @@ The later phrase “inverse discrepancy” should not be implemented as $1/\math
 
 Let the local state evolve under
 
-$$
+```math
 x_{n+1}=F(x_n,u_n;\xi_n),
-$$
+```
 
 where $u_n$ is an admissible operation and $\xi_n$ denotes conditions and relationships. Let $\mathcal V(x_n,\xi_n)$ be the context-dependent viable set. Define distance to viability by
 
-$$
+```math
 \operatorname{dist}_W(y,\mathcal V)
 =
 \inf_{v\in\mathcal V}\|y-v\|_W.
-$$
+```
 
 The conditional inverse-operation problem is
 
-$$
+```math
 \boxed{
 u_n^*
 \in
@@ -853,15 +853,15 @@ u_n^*
 \lambda C(u)
 \right].
 }
-$$
+```
 
 This formalizes “a formula, not THE formula.” The method is invariant; the corrective operation is state-dependent:
 
-$$
+```math
 u^*(x_1,\xi_1)
 \neq
 u^*(x_2,\xi_2)
-$$
+```
 
 when the states or conditions differ.
 
@@ -869,16 +869,16 @@ when the states or conditions differ.
 
 Let
 
-$$
+```math
 \mathbf y_n=
 \begin{pmatrix}
 C_n\\E_n
 \end{pmatrix}
-$$
+```
 
 represent coherence and entropy-like variation. A nonreciprocal local model is
 
-$$
+```math
 \dot{\mathbf y}
 =
 \mathbf f(\mathbf y)
@@ -890,11 +890,11 @@ $$
 \mathbf y,
 \qquad
 \gamma_{CE}\neq\gamma_{EC}.
-$$
+```
 
 Dynamic balance is not $C=E$ and not a fixed equilibrium. Define a viable region
 
-$$
+```math
 \mathcal W
 =
 \left\{
@@ -902,29 +902,29 @@ $$
 g_-(\mathbf y)\le0,
 g_+(\mathbf y)\le0
 \right\},
-$$
+```
 
 bounded by two failure regimes:
 
-$$
+```math
 \text{excess stabilization}
 \rightarrow
 \text{rigidity/stagnation},
-$$
+```
 
-$$
+```math
 \text{excess variation}
 \rightarrow
 \text{loss of viable organization}.
-$$
+```
 
 The inverse regulator seeks $u_n^*$ such that the trajectory remains in, or returns to, $\mathcal W$ while preserving nonzero dynamics:
 
-$$
+```math
 \mathbf y_n\in\mathcal W,
 \qquad
 \|\dot{\mathbf y}_n\|>0.
-$$
+```
 
 This is the formal successor to the August 21 question. It captures bounded nonequilibrium and controlled asymmetry without adopting Gemini’s named “Inverse Discrepancy Operator.”
 
@@ -934,66 +934,66 @@ This is the formal successor to the August 21 question. It captures bounded none
 
 Interaction from eigenstate $j$ becomes an encounter for $i$:
 
-$$
+```math
 e_{j\rightarrow i,n}.
-$$
+```
 
 The receiving eigenstate updates through its own rule:
 
-$$
+```math
 \boxed{
 X_{i,n+1}
 =
 \mathcal U_i
 (X_{i,n},e_{j\rightarrow i,n}).
 }
-$$
+```
 
 Entrainment can change orientation or processing parameters,
 
-$$
+```math
 (d_i,w_i,\rho_i,D_i,J_i,b_i,\eta_i)
 \longrightarrow
 (d_i',w_i',\rho_i',D_i',J_i',b_i',\eta_i'),
-$$
+```
 
 or unresolved coupling,
 
-$$
+```math
 B_i\longrightarrow B_i+\Delta B_i,
-$$
+```
 
 without copying $j$’s geometry into $i$ and without changing the structure required by $G_i^{(k)}$.
 
 For the scalar threshold, if entrainment changes only $p$,
 
-$$
+```math
 \Delta p_{\min}
 =
 \max\left(0,\frac{\beta-1}{\eta}-p\right).
-$$
+```
 
 If it changes only resolution efficiency,
 
-$$
+```math
 \Delta\eta_{\min}
 =
 \max\left(0,\frac{\beta-1}{p}-\eta\right).
-$$
+```
 
 If it changes both, the critical tradeoff surface is
 
-$$
+```math
 \boxed{
 (p+\Delta p)(\eta+\Delta\eta)=\beta-1.
 }
-$$
+```
 
 For coupled loops, the actual transition condition is
 
-$$
+```math
 \rho(B+\Delta B-H-\Delta H)<1.
-$$
+```
 
 This separates at least three effects: more successful processing, more resolution per success, and changed coupling among unresolved structures.
 
@@ -1005,7 +1005,7 @@ This separates at least three effects: more successful processing, more resoluti
 
 Let eigenstate $i$’s current boundary-relevant contribution be
 
-$$
+```math
 v_{i,n}^{(D)}
 =
 \Phi_D
@@ -1016,23 +1016,23 @@ s_i,
 \mathbf r_{i,n},
 X_{i,n}
 \right),
-$$
+```
 
 where $G_i$ is originating geometry, $s_i$ is a scalar weight/tone candidate, and the remaining arguments preserve history and realized accessibility.
 
 An individual structural expansion changes this contribution:
 
-$$
+```math
 \Delta K_{D,i,n}
 =
 v_{i,n+1}^{(D)}v_{i,n+1}^{(D)T}
 -
 v_{i,n}^{(D)}v_{i,n}^{(D)T}.
-$$
+```
 
 Aggregate content updates by
 
-$$
+```math
 \boxed{
 K_{n+1}
 =
@@ -1042,7 +1042,7 @@ K_n,
 \sum_{i\in\mathcal E_n}\Delta K_{D,i,n}
 \right).
 }
-$$
+```
 
 This formalizes individual influence on boundary content. It does not grant individual authority over boundary rules.
 
@@ -1050,7 +1050,7 @@ This formalizes individual influence on boundary content. It does not grant indi
 
 A post-Hodge candidate represents the active aggregate by
 
-$$
+```math
 \boxed{
 H_n
 =
@@ -1058,11 +1058,11 @@ H_n
 q_{i,n}s_i^2
 \mathbf w_i\mathbf w_i^T.
 }
-$$
+```
 
 For $\mathbf w_i=(a_i,b_i)\in\mathbb R^2$, the determinant identity is
 
-$$
+```math
 \boxed{
 \det H_n
 =
@@ -1070,30 +1070,30 @@ $$
 q_{i,n}q_{j,n}s_i^2s_j^2
 \Omega_{ij}^2.
 }
-$$
+```
 
 Define total magnitude
 
-$$
+```math
 M_n=\operatorname{tr}(H_n)
-$$
+```
 
 and normalized two-dimensional relational complexity
 
-$$
+```math
 \boxed{
 C_n
 =
 \frac{4\det H_n}{[\operatorname{tr}(H_n)]^2}
 \in[0,1]
 }
-$$
+```
 
 for positive semidefinite $2\times2$ $H_n$ with nonzero trace. A candidate effective radius is
 
-$$
+```math
 R_{{\rm eff},n}=(\det H_n)^{1/4}.
-$$
+```
 
 These quantities distinguish aggregate amount from relational diversity. Proportional windings can increase magnitude without adding a new two-dimensional relational direction. However, agreement in one projected variable does not make two eigenstates identical; originating geometry, scalar weight, history, and other state dimensions remain distinct.
 
@@ -1101,21 +1101,21 @@ These quantities distinguish aggregate amount from relational diversity. Proport
 
 Let aggregate completion be
 
-$$
+```math
 \Gamma_D(K_n,\Delta_D^{(k)})\in[0,1].
-$$
+```
 
 Boundary content may update continuously while the governing rule remains fixed:
 
-$$
+```math
 K_n\rightarrow K_{n+1},
 \qquad
 \Theta_{n+1}=\Theta_n.
-$$
+```
 
 A rule-level transition occurs only when an aggregate condition is satisfied:
 
-$$
+```math
 \boxed{
 \Theta_{n+1}
 =
@@ -1125,17 +1125,17 @@ $$
 \Theta_n,&\text{otherwise}.
 \end{cases}
 }
-$$
+```
 
 This is a `SYNTHESIS-DRAFT` expression of the `CORE-RELATION`:
 
-$$
+```math
 \boxed{
 \text{individual influence}
 \neq
 \text{individual boundary authority}.
 }
-$$
+```
 
 ---
 
@@ -1143,7 +1143,7 @@ $$
 
 The same abstract rule can be applied at each scale:
 
-$$
+```math
 \boxed{
 \mathcal T_\sigma:
 \left(S_\sigma^{(k)},\Delta_\sigma^{(k)}\right)
@@ -1152,35 +1152,35 @@ S_\sigma^{(k+1)}
 \quad\text{when}\quad
 \Gamma_\sigma=1.
 }
-$$
+```
 
 At individual scale:
 
-$$
+```math
 U_i^{(k)}
 \xrightarrow{\text{nonredundant integrated relations}}
 U_i^{(k+1)}.
-$$
+```
 
 At aggregate scale:
 
-$$
+```math
 K_D^{(k)}
 \xrightarrow{\text{nonredundant aggregate contributions}}
 K_D^{(k+1)}.
-$$
+```
 
 At boundary-rule scale:
 
-$$
+```math
 \Theta^{(k)}
 \xrightarrow{\text{aggregate geometric completion}}
 \Theta^{(k+1)}.
-$$
+```
 
 Thus the output of one scale becomes candidate input at the next:
 
-$$
+```math
 \boxed{
 c_{i,n}
 \rightarrow
@@ -1192,7 +1192,7 @@ c_{i,n}
 \rightarrow
 \text{new recursion conditions}.
 }
-$$
+```
 
 Scale equivariance is a hypothesis to test, not an established property. Each scale may require a different state space and completion functional while preserving the same abstract relationship.
 
@@ -1202,7 +1202,7 @@ Scale equivariance is a hypothesis to test, not an established property. Each sc
 
 Split the processed encounter into an integrated and non-integrated record:
 
-$$
+```math
 f_{i,n}^+
 =
 \mathcal F_i^+(e_{i,n},X_{i,n}),
@@ -1210,7 +1210,7 @@ f_{i,n}^+
 f_{i,n}^-
 =
 \mathcal F_i^-(e_{i,n},X_{i,n}).
-$$
+```
 
 The two records need not be orthogonal components. They are typed outcomes:
 
@@ -1219,18 +1219,18 @@ The two records need not be orthogonal components. They are typed outcomes:
 
 Return information is
 
-$$
+```math
 \boxed{
 f_{i,n}^{\rm ret}
 =
 \mathcal R_i^{\rm ret}
 (f_{i,n}^+,f_{i,n}^-,\mathcal H_{i,n}).
 }
-$$
+```
 
 It propagates through return operators
 
-$$
+```math
 f_{i,n}^{\rm ret}
 \xrightarrow{\widetilde L_{2,i}}
 \widetilde q_{i,n}
@@ -1238,7 +1238,7 @@ f_{i,n}^{\rm ret}
 \widetilde u_{i,n}
 \xrightarrow{\widetilde L_1}
 \Delta K_{i,n}.
-$$
+```
 
 The tilded maps are not assumed to equal the inverses $L_2^{-1}$, $\mathcal C_T^{-1}$, or $L_1^{-1}$. They are reverse-direction information maps to be derived.
 
@@ -1250,9 +1250,9 @@ The tilded maps are not assumed to equal the inverses $L_2^{-1}$, $\mathcal C_T^
 
 The preserved candidate relation is
 
-$$
+```math
 d(\theta)=C_d\tan\left(\frac\theta2\right),
-$$
+```
 
 where $C_d$ supplies scale and units. This is recognizable as a stereographic-type angular-to-linear map. Its exact geometry and physical observable remain to be defined.
 
@@ -1260,41 +1260,41 @@ where $C_d$ supplies scale and units. This is recognizable as a stereographic-ty
 
 Let $\Phi(\tau)$ be periodic source dynamics with period $T$:
 
-$$
+```math
 \Phi(\tau+T)=\Phi(\tau).
-$$
+```
 
 The recovered temporal operator was
 
-$$
+```math
 t(\tau)
 =
 \int^\tau
 \|\dot\Phi(u)\|
 \csc^2\left(\frac{\pi u}{T}\right)du.
-$$
+```
 
 For constant speed $v_\Phi$, on an open chart between poles,
 
-$$
+```math
 t(\tau)
 =
 -\frac{Tv_\Phi}{\pi}
 \cot\left(\frac{\pi\tau}{T}\right)
 +C.
-$$
+```
 
 This genuinely maps a periodic angular chart to an unbounded linear coordinate, but its poles require charting or boundary interpretation. It is therefore a `HISTORICAL-CANDIDATE`, not yet a physical derivation of experienced time.
 
 A more general lag-aware form is
 
-$$
+```math
 t(\tau)
 =
 \int_0^\tau
 K_t(u,u-\delta;X_i)
 \|\dot\Phi(u)\|du,
-$$
+```
 
 where $K_t$ must be derived from the proposed processing lag rather than fitted to a target constant.
 
@@ -1304,7 +1304,7 @@ where $K_t$ must be derived from the proposed processing lag rather than fitted 
 
 For odd prime $p$, define the finite cosine selector
 
-$$
+```math
 M_p(x,y)
 =
 \sum_{n=1}^{(p-1)/2}
@@ -1312,34 +1312,34 @@ M_p(x,y)
 \frac{2\pi n}{p}
 (xw_1+yw_2)
 \right].
-$$
+```
 
 Let
 
-$$
+```math
 k=xw_1+yw_2\pmod p.
-$$
+```
 
 Then
 
-$$
+```math
 M_p(x,y)
 =
 \begin{cases}
 (p-1)/2,&k\equiv0\pmod p,\\
 -1/2,&k\not\equiv0\pmod p.
 \end{cases}
-$$
+```
 
 The selected nodes satisfy
 
-$$
+```math
 xw_1+yw_2\equiv0\pmod p
-$$
+```
 
 and form the cyclic subgroup
 
-$$
+```math
 \boxed{
 (x_q,y_q)
 =
@@ -1347,22 +1347,22 @@ q(w_2,-w_1)\pmod p,
 \qquad
 q=0,\ldots,p-1.
 }
-$$
+```
 
 Embedding them into the torus gives
 
-$$
+```math
 \theta_q=\frac{2\pi x_q}{p},
 \qquad
 \phi_q=\frac{2\pi y_q}{p},
-$$
+```
 
-$$
+```math
 X_q
 =
 \frac1{\sqrt2}
 (\cos\theta_q,\sin\theta_q,\cos\phi_q,\sin\phi_q).
-$$
+```
 
 This is a valid discrete winding selector. Changing $p$ changes the sampling density and arithmetic boundary; it does not automatically create a different underlying continuous winding curve. Its use as a physical prime-condensation mechanism is a `HISTORICAL-CANDIDATE`.
 
@@ -1374,23 +1374,23 @@ The mathematically legitimate experimental question was:
 
 Given a smooth complex projective variety $X$ and a rational Hodge class
 
-$$
+```math
 \alpha
 \in
 H^{2p}(X,\mathbb Q)
 \cap
 H^{p,p}(X),
-$$
+```
 
 can the IOM projection/filter procedure construct an algebraic cycle $Z_\alpha$ satisfying
 
-$$
+```math
 \boxed{[Z_\alpha]=\alpha?}
-$$
+```
 
 A typed candidate pipeline is
 
-$$
+```math
 \alpha
 \xrightarrow{\mathsf{Rep}}
 f_\alpha
@@ -1400,13 +1400,13 @@ f_\alpha
 Z_\alpha
 \xrightarrow{\operatorname{cl}}
 [Z_\alpha].
-$$
+```
 
 The required test is
 
-$$
+```math
 \operatorname{cl}(Z_\alpha)=\alpha.
-$$
+```
 
 The post-GitHub experiments established two separate mathematical facts:
 
@@ -1415,13 +1415,13 @@ The post-GitHub experiments established two separate mathematical facts:
 
 They did not establish the bridge
 
-$$
+```math
 \boxed{
 \text{arbitrary rational Hodge class}
 \longrightarrow
 \text{algebraic cycle with the same class}.
 }
-$$
+```
 
 Accordingly, the Hodge pipeline remains an experimental construction and source of useful operators, not an accepted proof mechanism.
 
@@ -1429,23 +1429,23 @@ Accordingly, the Hodge pipeline remains an experimental construction and source 
 
 For a linear update $M$ and state $x$, define
 
-$$
+```math
 \Omega_m(x;M)
 =
 x\wedge Mx\wedge\cdots\wedge M^{m-1}x.
-$$
+```
 
 Then
 
-$$
+```math
 \Omega_m\neq0
-$$
+```
 
 means the first $m$ iterates are linearly independent, while
 
-$$
+```math
 \Omega_m=0
-$$
+```
 
 means the accessible Krylov subspace has dimension below $m$. This is a valid diagnostic for independent correction directions or accessible state dimension. Connecting it to Hodge classes, biological recursion, or boundary expansion requires an additional mapping.
 
@@ -1455,72 +1455,72 @@ means the accessible Krylov subspace has dimension below $m$. This is a valid di
 
 The recovered transfer and screen family included
 
-$$
+```math
 \Psi_{\rm screen}(x,t)
 =
 \oint_{\rm source}
 \mathcal T(\theta,\phi,\Omega)
 e^{i(\mathbf k\cdot\mathbf x-\omega t)}d\Omega,
-$$
+```
 
 with
 
-$$
+```math
 \Omega=\text{source information density},
-$$
+```
 
 and the phase-localization condition
 
-$$
+```math
 \Delta\phi=0.
-$$
+```
 
 Later versions inserted a zeta filter:
 
-$$
+```math
 \left|\zeta\!\left(\mathcal T(\theta,\phi,\Omega)\right)\right|=0.
-$$
+```
 
 For this expression to be typed, the transfer must map into the complex plane:
 
-$$
+```math
 \mathcal T:
 S^1\times S^1\times\mathbb R
 \rightarrow
 \mathbb C.
-$$
+```
 
 The candidate Lagrangian was
 
-$$
+```math
 \mathcal L
 =
 \frac12\eta^{\mu\nu}
 \partial_\mu\varphi\partial_\nu\varphi
 -
 V_\zeta(\varphi).
-$$
+```
 
 The historical potential
 
-$$
+```math
 V_\zeta
 =
 |\zeta(\varphi)|^2
 +
 \sum_n\lambda_n(\varphi-\rho_n)^2
-$$
+```
 
 is unresolved when $\varphi$ is real and $\rho_n$ is complex. A real-valued candidate would need an explicitly real construction, for example
 
-$$
+```math
 V_{\rm cand}(\varphi)
 =
 |\zeta(\tfrac12+i\varphi)|^2
 +
 \sum_n\lambda_n
 \bigl|\varphi-\gamma_n\bigr|^2,
-$$
+```
 
 where $\rho_n=1/2+i\gamma_n$. This repairs field type but does not derive a physical interpretation or solve the zeta-to-matter mapping. It is a `SYNTHESIS-DRAFT` example of the minimum typing repair, not a canonical IOM potential.
 
@@ -1530,22 +1530,22 @@ where $\rho_n=1/2+i\gamma_n$. This repairs field type but does not derive a phys
 
 The standard quantum propagator
 
-$$
+```math
 K(b,a)
 =
 \int\mathcal D[x]
 e^{iS[x]/\hbar}
-$$
+```
 
 remains a non-negotiable empirical target for any projection formalism claiming to reproduce quantum interference. An IOM operator family must either derive an equivalent amplitude law or explain how its torus modes, lenses, and phase-selection mechanism reproduce the same observable statistics.
 
 The test condition is not a visual resemblance between a torus and interference. It is equality or controlled approximation of amplitudes:
 
-$$
+```math
 K_{\rm IOM}(b,a)
 \stackrel{?}{=}
 K_{\rm QM}(b,a)
-$$
+```
 
 over a declared class of systems and boundary conditions.
 
@@ -1555,23 +1555,23 @@ over a declared class of systems and boundary conditions.
 
 The 24-cell, E8, and overlapping stellated-octahedron/tesseract form remain upstream geometry candidates. They should enter the formalism only through typed functions, such as:
 
-$$
+```math
 \mathsf Enc_G:\mathbb H\rightarrow\mathbb B,
-$$
+```
 
-$$
+```math
 \mathsf Gate_G:\mathbb B\rightarrow\mathbb B',
-$$
+```
 
-$$
+```math
 \mathsf Code_G:\mathbb X\rightarrow\mathbb C,
-$$
+```
 
 after a required transformation has been identified. The current architecture does not justify the historical fixed stack
 
-$$
+```math
 E_8\rightarrow24\text{-cell}\rightarrow T_C
-$$
+```
 
 as an accepted sequence.
 
@@ -1596,7 +1596,7 @@ They remain part of the version and test history. They are excluded from the coh
 
 A first simulation can use the following state:
 
-$$
+```math
 \mathfrak S_n
 =
 \left(
@@ -1605,7 +1605,7 @@ B_n,
 \{G_i^{(k)}\},
 \{\mathbf w_i,s_i,q_{i,n}\}
 \right).
-$$
+```
 
 One recursion executes:
 
@@ -1622,20 +1622,20 @@ One recursion executes:
 
 The update can be written compactly as
 
-$$
+```math
 \boxed{
 \mathfrak S_{n+1}
 =
 \mathbb F
 (\mathfrak S_n,\mathcal E_n^{\rm encounter};\Xi),
 }
-$$
+```
 
 where $\Xi$ contains explicit modeling choices. The simulation should expose, not hide, those choices.
 
 Primary observables are:
 
-$$
+```math
 T_{{\rm expand},i},
 \quad
 \rho(B_i-H_i),
@@ -1651,7 +1651,7 @@ T_{\rm boundary},
 M_n,
 \quad
 C_n.
-$$
+```
 
 ---
 
